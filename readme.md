@@ -2,7 +2,7 @@
 
 **ZyGone**, captive portal kullanan ağlarda (özellikle ZyXEL USG cihazları üzerinde), kullanıcıların Wi-Fi oturumlarını daha kolay başlatmalarını ve yönetmelerini sağlayan bir masaüstü uygulamasıdır.
 
-![ZyGone Tray](assets/zygone-tray.png)
+![ZyGone Tray](image.png)
 
 ---
 
