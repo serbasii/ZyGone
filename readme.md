@@ -47,19 +47,9 @@ ZyGone uygulaması şu amaçlarla geliştirilmiştir:
 
 - Kurumsal ofis kullanıcıları
 - Ziyaretçi Wi-Fi kullanıcıları
-- Sistem yöneticileri ve teknik ekipler
 
 ---
 
-## 📦 Kurulum
-
-> ⚠️ Şu anda test aşamasında, kurulabilir versiyon için `Releases` sekmesine bakınız.
-
-1. Uygulamayı indirin
-2. Sistem tepsisine yerleşecektir
-3. Sağ tıklayarak “Oturum Aç” veya “Oturum Kapat” işlemini yapabilirsiniz
-
----
 
 ## 📁 Yapılacaklar (To-Do)
 
