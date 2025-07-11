@@ -65,6 +65,8 @@ cd test-page
 npm install
 npm start
 
+![login dummy](dummy.png)
+
 --
 
 ## 📌 Hedef Kullanıcılar
