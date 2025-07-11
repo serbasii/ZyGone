@@ -49,12 +49,10 @@ Bu proje içinde Express.js kullanılarak oluşturulmuş dummy bir login sistemi
 
 ### 🔧 Özellikler
 - Tarayıcı üzerinden kullanıcı girişi (form tabanlı)
-- curl üzerinden POST ile giriş imkânı
-- express-session ile oturum yönetimi
 - logout işlemiyle session sonlandırma
 - ZyWALL benzeri HTML arayüz
 
-
+![login dummy](dummy.png)
 
 ### 🧰 Kurulum
 
@@ -65,7 +63,6 @@ cd test-page
 npm install
 npm start
 
-![login dummy](dummy.png)
 
 --
 
