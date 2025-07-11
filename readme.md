@@ -43,6 +43,25 @@ ZyGone uygulaması şu amaçlarla geliştirilmiştir:
 
 ---
 
+## 🔐 Dummy Login Sistemi (ZyWALL USG-300 Benzeri)
+
+Bu proje içinde Express.js kullanılarak oluşturulmuş dummy bir login sistemi yer almaktadır. Arayüz, ZyWALL USG 300 giriş ekranına benzer şekilde tasarlanmıştır.
+
+### 🔧 Özellikler
+- Tarayıcı üzerinden kullanıcı girişi (form tabanlı)
+- curl üzerinden POST ile giriş imkânı
+- express-session ile oturum yönetimi
+- logout işlemiyle session sonlandırma
+- ZyWALL benzeri HTML arayüz
+
+---
+
+### 🧰 Kurulum
+
+```bash
+npm install
+
+
 ## 📌 Hedef Kullanıcılar
 
 - Kurumsal ofis kullanıcıları
