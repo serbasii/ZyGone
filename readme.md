@@ -54,13 +54,14 @@ Bu proje içinde Express.js kullanılarak oluşturulmuş dummy bir login sistemi
 - logout işlemiyle session sonlandırma
 - ZyWALL benzeri HTML arayüz
 
----
+
 
 ### 🧰 Kurulum
 
 ```bash
 npm install
 
+--
 
 ## 📌 Hedef Kullanıcılar
 
