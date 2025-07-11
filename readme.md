@@ -59,7 +59,11 @@ Bu proje içinde Express.js kullanılarak oluşturulmuş dummy bir login sistemi
 ### 🧰 Kurulum
 
 ```bash
+
+cd test-page
+
 npm install
+npm start
 
 --
 
